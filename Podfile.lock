@@ -1,0 +1,21 @@
+PODS:
+  - SwiftLocation (5.1.0):
+    - SwiftLocation/BeaconBroadcaster (= 5.1.0)
+    - SwiftLocation/Core (= 5.1.0)
+  - SwiftLocation/BeaconBroadcaster (5.1.0):
+    - SwiftLocation/Core
+  - SwiftLocation/Core (5.1.0)
+
+DEPENDENCIES:
+  - SwiftLocation
+
+SPEC REPOS:
+  trunk:
+    - SwiftLocation
+
+SPEC CHECKSUMS:
+  SwiftLocation: 83e0ea75a1969cee3a1197e2b7095603fc23fde5
+
+PODFILE CHECKSUM: fe59aeb2721dd9c71e2f124779266a37a78a6cac
+
+COCOAPODS: 1.11.2
